@@ -1,7 +1,0 @@
-echo "# Projeto-Integrador" >> README.md
-itinerário inicial
-git adicionar README.md
-git commit - m "primeiro commit"
-git branch -M principal
-git remote add origin https://github.com/psanttana/Projeto-Integrador.git
-git push - u origem main
