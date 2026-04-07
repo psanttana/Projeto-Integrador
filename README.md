@@ -5,9 +5,9 @@ O StockControl é um sistema de controle de estoque desenvolvido com o objetivo 
 ---
 
 👥 Equipe
-Nome 1 – Requisitos
-Nome 2 – Protótipo
-Nome 3 – Organização/Kanban
+Pedro Bandeira – Requisitos
+Ruan – Protótipo
+Pedro santana – Organização/Kanban
 
 ---
 
