@@ -23,9 +23,9 @@ O objetivo do projeto é oferecer uma solução simples, intuitiva e eficiente p
 
 | Integrante     | Responsabilidade                              |
 | -------------- | --------------------------------------------- |
-| Pedro Bandeira | Levantamento e análise de requisitos          |
-| Ruan           | Desenvolvimento do protótipo e interface      |
-| Pedro Santana  | Organização do projeto, Kanban e documentação |
+| Pedro Bandeira | Product Owner (PO)|
+| Ruan           | Developer (DEV)   |
+| Pedro Santana  | Scrum Master (SM) |
 
 ---
 
